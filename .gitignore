@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+R_libs/
+scripts/worldclim_cache/
+scripts/worldclim_neon_aquatic_sites.csv
